@@ -11,7 +11,7 @@ A simple Java-based currency converter that uses hardcoded exchange rates to con
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/java-currency-converter.git
+   git clone https://github.com/nurulashraf/java-currency-converter.git
    ```
 2. Navigate to the project folder:
    ```sh
